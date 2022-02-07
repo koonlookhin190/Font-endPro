@@ -1,10 +1,10 @@
-body{
+/* body{
     background-image: url("../Font-endPro/image/BG.jpg");
     background-size: 40% ;
     background-repeat: no-repeat;
  
-}
-.welcome{
+} */
+/* .welcome{
     margin-left: 30%;
     background-color: antiquewhite;
     text-align: center;
@@ -12,4 +12,83 @@ body{
 
 .welcome p > span:visited{
     color: gold;
+} */
+/* 
+.button {
+    background-color: red;
+    padding: 50px;
+    font-size: 150px;
+} */
+
+/* .picture{
+    background-image: url("../Font-endPro/image/BG.jpg");
+} */
+
+.picture{
+    width: 100%;
+    text-align:left;
+    height: 100vh;
+  
+}
+body{
+    background-color: black;
+    color: white;
+   
+}
+.wc{
+    text-align: center;
+    vertical-align: middle;
+    padding:  23% 10% 20% 10%;
+    font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px;
+}
+
+#p1{
+    font-family: 'Dancing Script', cursive;      font-size: 120px;
+    padding-bottom: 70px;
+    color:gold;
+}
+#p2{
+    line-height: 15px;
+}
+#p2-2{
+    line-height: 15px;
+    margin-top: -20px;
+    margin-bottom: 35px;
+}
+#p3{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    padding-bottom: 20px;
+    line-height: 15px;
+
+}
+.button{
+    font-family: 'Roboto Condensed', sans-serif;
+
+    margin-top: 50px;
+    font-size: 30px;
+    background-color: gold;
+    line-height: 32px;
+}
+.button2{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 30px;
+    font-size: 30px;
+    background-color: gold;
+    line-height: 40px;
+}
+a:link , a:visited{
+    color: gold;
+}
+#p4{
+    margin-top: -25px;
+    line-height: 18px;
+}
+
+#resName{
+    color: gold;
+}
+.IDPW{
+    text-align: right;
+    line-height: 35px;
 }
