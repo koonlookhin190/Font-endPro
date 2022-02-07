@@ -1,0 +1,15 @@
+body{
+    background-image: url("../Font-endPro/image/BG.jpg");
+    background-size: 40% ;
+    background-repeat: no-repeat;
+ 
+}
+.welcome{
+    margin-left: 30%;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.welcome p > span:visited{
+    color: gold;
+}
