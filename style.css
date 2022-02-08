@@ -1,39 +1,17 @@
-/* body{
-    background-image: url("../Font-endPro/image/BG.jpg");
-    background-size: 40% ;
-    background-repeat: no-repeat;
- 
-} */
-/* .welcome{
-    margin-left: 30%;
-    background-color: antiquewhite;
-    text-align: center;
-}
-
-.welcome p > span:visited{
-    color: gold;
-} */
-/* 
-.button {
-    background-color: red;
-    padding: 50px;
-    font-size: 150px;
-} */
-
-/* .picture{
-    background-image: url("../Font-endPro/image/BG.jpg");
-} */
-
 .picture{
     width: 100%;
     text-align:left;
     height: 100vh;
-  
+    padding-left: 0%;
 }
 body{
     background-color: black;
     color: white;
    
+}
+.row>*{
+    padding-left: 0%;
+    padding-right: 0%;
 }
 .wc{
     text-align: center;
