@@ -121,3 +121,10 @@ a:link , a:visited{
 a > span{
     color: black;
 }
+
+#TBnumber{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 35px;
+    color: white;
+}
